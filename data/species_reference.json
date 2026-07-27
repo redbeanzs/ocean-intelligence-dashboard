@@ -1,0 +1,58 @@
+{
+  "Great White Shark": {
+    "scientific_name": "Carcharodon carcharias",
+    "note": "A large lamnid shark found in temperate coastal and offshore waters."
+  },
+  "Tiger Shark": {
+    "scientific_name": "Galeocerdo cuvier",
+    "note": "A widely distributed requiem shark associated with tropical and warm-temperate waters."
+  },
+  "Bull Shark": {
+    "scientific_name": "Carcharhinus leucas",
+    "note": "A coastal species known for tolerating both salt and fresh water."
+  },
+  "Blacktip Shark": {
+    "scientific_name": "Carcharhinus limbatus",
+    "note": "A coastal requiem shark recognized by dark markings on several fins."
+  },
+  "Caribbean Reef Shark": {
+    "scientific_name": "Carcharhinus perezi",
+    "note": "A reef-associated shark occurring in the western Atlantic and Caribbean."
+  },
+  "Great Hammerhead Shark": {
+    "scientific_name": "Sphyrna mokarran",
+    "note": "The largest hammerhead species, occurring in tropical and warm-temperate seas."
+  },
+  "Shortfin Mako Shark": {
+    "scientific_name": "Isurus oxyrinchus",
+    "note": "A fast, open-ocean lamnid shark with a broad global distribution."
+  },
+  "Blue Shark": {
+    "scientific_name": "Prionace glauca",
+    "note": "A highly migratory pelagic shark found across temperate and tropical oceans."
+  },
+  "Lemon Shark": {
+    "scientific_name": "Negaprion brevirostris",
+    "note": "A coastal shark often associated with shallow subtropical habitats."
+  },
+  "Nurse Shark": {
+    "scientific_name": "Ginglymostoma cirratum",
+    "note": "A bottom-associated shark commonly found around reefs and shallow coastal areas."
+  },
+  "Oceanic Whitetip Shark": {
+    "scientific_name": "Carcharhinus longimanus",
+    "note": "A pelagic requiem shark associated with warm, open-ocean environments."
+  },
+  "Whitetip Reef Shark": {
+    "scientific_name": "Triaenodon obesus",
+    "note": "A small reef shark found across the tropical Indo-Pacific."
+  },
+  "Other Shark": {
+    "scientific_name": "Selachimorpha",
+    "note": "A broad category used when a record identifies a shark but not a mapped species."
+  },
+  "Unknown Shark": {
+    "scientific_name": "",
+    "note": "The source record did not contain enough information for species classification."
+  }
+}

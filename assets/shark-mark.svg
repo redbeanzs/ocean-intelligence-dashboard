@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ocean Intelligence shark mark</title>
+  <desc id="desc">A simple shark silhouette inside a circular ocean badge.</desc>
+  <circle cx="256" cy="256" r="236" fill="#062b3b"/>
+  <path d="M68 286c62-72 143-110 242-98l55-64 6 88c32 18 57 43 73 74-42 8-76 28-102 61-43-29-92-45-147-46l-71 58 24-67c-29-4-55-6-80-6z" fill="#35b7b5"/>
+  <path d="M230 196l38-86 42 80z" fill="#087e8b"/>
+  <circle cx="379" cy="257" r="7" fill="#ffffff"/>
+</svg>
